@@ -5,7 +5,7 @@ Skills: CI/CD, Full Stack Development, Go, Lean Software Development, Java, Java
 
 - 🔭 I’m currently working on helping Australian companies to build better products faster 
 - 🌱 I’m currently learning Kubernetes 
-- 👯 I’m looking to collaborate on with open minded people 
+- 👯 I’m looking to collaborate with open-minded people 
 - 💬 Ask me about building better products, teams, and software 
 - 📫 How to reach me: Twitter 
 - 😄 Pronouns: He/him 
