@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Steve
-#### I am a senior software engineer at VMware Pivotal Labs
+#### I am a senior software engineer
 
 Skills: CI/CD, Full Stack Development, Go, Lean Software Development, Java, Javascript, Kotlin, TDD
 
-- 🔭 I’m currently working on helping Australian companies to build better products faster 
+- 🔭 I’m currently working on helping to build better teams, products, and software
 - 🌱 I’m currently learning Kubernetes 
 - 👯 I’m looking to collaborate with open-minded people 
 - 💬 Ask me about building better products, teams, and software 
