@@ -4,7 +4,7 @@
 Skills: CI/CD, Full Stack Development, Go, Lean Software Development, Java, Javascript, Kotlin, TDD
 
 - 🔭 I’m currently working on helping to build better teams, products, and software
-- 🌱 I’m currently learning Kubernetes 
+- 🌱 I’m currently learning Security 
 - 👯 I’m looking to collaborate with open-minded people 
 - 💬 Ask me about building better products, teams, and software 
 - 📫 How to reach me: Twitter 
